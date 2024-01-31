@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "l4VaBUMrfkRHL1uI+ci3mstoABUw2mW3Q2PrB62ESIQ=",
+  "Source": "FundooNotesApp",
+  "BasePath": "_content/FundooNotesApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FundooNotesApp\\wwwroot",
+      "Source": "FundooNotesApp",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\FundooNotesApp\\FundooNotesApp\\wwwroot\\",
+      "BasePath": "_content/FundooNotesApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\FundooNotesApp\\FundooNotesApp\\wwwroot\\uploads\\horse.webp",
+      "SourceId": "FundooNotesApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\FundooNotesApp\\FundooNotesApp\\wwwroot\\",
+      "BasePath": "_content/FundooNotesApp",
+      "RelativePath": "uploads/horse.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\horse.webp"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\FundooNotesApp\\FundooNotesApp\\wwwroot\\uploads\\html.png",
+      "SourceId": "FundooNotesApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\FundooNotesApp\\FundooNotesApp\\wwwroot\\",
+      "BasePath": "_content/FundooNotesApp",
+      "RelativePath": "uploads/html.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\html.png"
+    }
+  ]
+}
